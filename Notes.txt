@@ -1,0 +1,2 @@
+I think I had to create a configuration file for the tests to work on their
+own with the green arrow in the test_open.py
